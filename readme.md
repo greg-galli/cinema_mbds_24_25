@@ -47,6 +47,7 @@ Chaque endpoint devra être testé pour couvrir tous les scénarios possibles, y
     - Si vous êtes partis sur des tests d'intégration, tout se fera naturellement.
     - Si vous avez choisi Postman, une fonctionnalité est accessible pour run l'intégralité de tests.
     - A voir dans les autres environnements.
+* **Assignment** : https://classroom.github.com/a/AyXATM4y
 ---
 
 ### **Critères d'évaluation**
