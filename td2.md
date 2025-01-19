@@ -47,10 +47,11 @@ Chaque endpoint devra être testé pour couvrir tous les scénarios possibles, y
     - Si vous êtes partis sur des tests d'intégration, tout se fera naturellement.
     - Si vous avez choisi Postman, une fonctionnalité est accessible pour run l'intégralité de tests.
     - A voir dans les autres environnements.
+* **Assignment** : https://classroom.github.com/a/AyXATM4y
 ---
 
 ### **Critères d'évaluation**
--  Conformité aux spécifications REST.
+- Conformité aux spécifications REST.
 - Gestion des erreurs et des codes HTTP.
 - Tests complets et reproductibles.
 - Clarté et exhaustivité de la documentation.
