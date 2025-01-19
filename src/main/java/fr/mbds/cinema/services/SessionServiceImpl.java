@@ -1,6 +1,6 @@
 package fr.mbds.cinema.services;
 
-import fr.mbds.cinema.controllers.SessionRepository;
+import fr.mbds.cinema.repositories.SessionRepository;
 import fr.mbds.cinema.entities.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

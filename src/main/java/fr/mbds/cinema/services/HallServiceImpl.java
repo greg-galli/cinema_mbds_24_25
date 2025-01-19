@@ -1,6 +1,6 @@
 package fr.mbds.cinema.services;
 
-import fr.mbds.cinema.controllers.HallRepository;
+import fr.mbds.cinema.repositories.HallRepository;
 import fr.mbds.cinema.entities.Hall;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

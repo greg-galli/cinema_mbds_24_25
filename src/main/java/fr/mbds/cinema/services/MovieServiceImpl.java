@@ -1,6 +1,6 @@
 package fr.mbds.cinema.services;
 
-import fr.mbds.cinema.controllers.MovieRepository;
+import fr.mbds.cinema.repositories.MovieRepository;
 import fr.mbds.cinema.entities.Movie;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

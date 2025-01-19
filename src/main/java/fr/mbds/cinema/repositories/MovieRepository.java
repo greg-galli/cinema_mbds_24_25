@@ -1,4 +1,4 @@
-package fr.mbds.cinema.controllers;
+package fr.mbds.cinema.repositories;
 
 import fr.mbds.cinema.entities.Movie;
 import org.springframework.data.jpa.repository.JpaRepository;
